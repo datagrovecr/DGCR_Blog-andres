@@ -32,15 +32,15 @@
 ## Posting Schedule
 ### October 10th
 * Mario - Present
-* Fabian - Blog Post
+* Fabián - Blog Post
 
 ### October 17th 
 * Pablo - Present
 * Raquel - Blog Post
 
 ### October 24th
-* Andres - Present
-* Fabian - Present
+* Andrés - Present
+* Fabián - Present
 * Mario - Blog Post
 
 ### October 31st
@@ -48,8 +48,8 @@
 * Raquel - Present
 
 ### November 7th
-* Andres - Blog Post
-* Fabian - Blog Post
+* Andrés - Blog Post
+* Fabián - Blog Post
 * Mario - Present
 
 ### November 14th
@@ -57,8 +57,8 @@
 * Raquel - Blog Post
 
 ### November 21st
-* Andres - Present
-* Fabian - Present
+* Andrés - Present
+* Fabián - Present
 * Mario - Blog Post
 
 ### November 28th
@@ -66,17 +66,17 @@
 * Raquel - Present
 
 ### December 5th
-* Andres - Blog
-* Fabian - Blog
-* Mario - Present
+* Andrés - Blog
+* Fabián - Blog
 
 ### December 12th
+* Mario - Present
 * Pablo - Present
 * Raquel - Blog Post
 
 ### December 19th
-* Andres - Present
-* Fabian - Present
+* Andrés - Present
+* Fabián - Present
 * Mario - Blog Post
 
 ### December 26th (No meeting)
@@ -84,7 +84,7 @@
 * Raquel - Blog Post
 
 ### January 2nd
-* Andres - Blog
-* Fabian - Blog
+* Andrés - Blog
+* Fabián - Blog
 * Mario - Blog Post
 
