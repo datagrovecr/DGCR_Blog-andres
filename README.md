@@ -66,8 +66,8 @@
 * Raquel - Present
 
 ### December 5th
-* Andrés - Blog
-* Fabián - Blog
+* Andrés - Blog Post
+* Fabián - Blog Post
 
 ### December 12th
 * Mario - Present
@@ -84,7 +84,7 @@
 * Raquel - Blog Post
 
 ### January 2nd
-* Andrés - Blog
-* Fabián - Blog
+* Andrés - Blog Post
+* Fabián - Blog Post
 * Mario - Blog Post
 
