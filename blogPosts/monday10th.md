@@ -91,3 +91,25 @@ I’ll give you here a briefly tour around the SDK documentation:
 #### Also, you can see lot of examples an good tutorials here in order to start your learning path of this SDK!
 <img width="1151" alt="Getting started" src="https://user-images.githubusercontent.com/110683318/194803039-bd37170c-8336-441a-b637-934eadc8b3ac.png">
 
+##Last recommendations
+Already mentioned all that, my last advice is learn reading the way word creates their documents opening those files in XML format. Doing that is quite simple, we can use the following commands to decompress the .docx file and see what's inside it
+```
+cd path/to/your/file.docx
+unzip file.docx -d file-content
+```
+And it should look like this
+```
+fabianvalverde@Fabians-MacBook-Pro ~ % cd Documents/StudyOpenXml/
+fabianvalverde@Fabians-MacBook-Pro StudyOpenXml % unzip SampleFile.docx -d file-content
+Archive:  SampleFile.docx
+  inflating: file-content/word/document.xml  
+ extracting: file-content/_rels/.rels  
+ extracting: file-content/[Content_Types].xml 
+```
+#### Then it's just as simple as drag and drop the XML file to your favorite browser!
+<img width="1512" alt="XMLBrowser" src="https://user-images.githubusercontent.com/110683318/194930503-ab01c94a-a49f-41ba-8131-094095a1ae29.png">
+
+#### If your XML file need permissions you have to open the Get Info window and change the permissions of the file
+<img width="1216" alt="Permissions" src="https://user-images.githubusercontent.com/110683318/194933211-fdd10da9-f271-4f09-92b7-8d75eb9f9f8a.png">
+
+Then you're completely ready to read the file and learn or try new ways to work with your documents!
