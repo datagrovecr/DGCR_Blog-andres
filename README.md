@@ -35,7 +35,6 @@
 * Fabián - Blog Post
 
 ### October 17th 
-* Pablo - Present
 * Raquel - Blog Post
 
 ### October 24th
@@ -44,7 +43,6 @@
 * Mario - Blog Post
 
 ### October 31st
-* Pablo - Blog Post
 * Raquel - Present
 
 ### November 7th
@@ -53,7 +51,6 @@
 * Mario - Present
 
 ### November 14th
-* Pablo - Present
 * Raquel - Blog Post
 
 ### November 21st
@@ -62,7 +59,6 @@
 * Mario - Blog Post
 
 ### November 28th
-* Pablo - Blog Post
 * Raquel - Present
 
 ### December 5th
@@ -71,7 +67,6 @@
 
 ### December 12th
 * Mario - Present
-* Pablo - Present
 * Raquel - Blog Post
 
 ### December 19th
@@ -80,7 +75,6 @@
 * Mario - Blog Post
 
 ### December 26th (No meeting)
-* Pablo - Blog Post
 * Raquel - Blog Post
 
 ### January 2nd
