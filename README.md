@@ -19,14 +19,14 @@
 * Links
     * Resources you found helpful
     * Sample code you'd like to highlight
-    * 
+    * Documentation 
 * List of tags
     * Key words that relate to your blog post, for future use
     * Examples: Typescript, Dart, Tailwind, Styling, Dictionary, Compression, etc.
 * Approximately 1,000 to 1,500 words
 
 ## Posting
-* Everyone will be assigned to write a blog post about twice a month
+* Everyone will be assigned to write a blog post or give a presentation during stand-up about twice a month
 * Create your blog post in a .md file in the repo by your assigned date
 
 ## Posting Schedule
