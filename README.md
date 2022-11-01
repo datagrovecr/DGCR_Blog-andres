@@ -61,7 +61,7 @@
 * Raquel - Present
 * Andrés - Blog Post
 
-### December 5th
+### December 6th (CR Holiday Dec. 5)
 * Fabián - Blog Post
 
 ### December 12th
