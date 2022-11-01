@@ -46,39 +46,35 @@
 * Raquel - Present
 
 ### November 7th
+* Fabián - Present
 * Andrés - Blog Post
-* Fabián - Blog Post
-* Mario - Present
 
 ### November 14th
+* Andrés - Present
 * Raquel - Blog Post
 
 ### November 21st
-* Andrés - Present
-* Fabián - Present
-* Mario - Blog Post
+* Meagan - Present
+* Fabián - Blog Post
 
 ### November 28th
 * Raquel - Present
+* Andrés - Blog Post
 
 ### December 5th
-* Andrés - Blog Post
-* Fabián - Blog Post
+* Fabián - Present
+* Meagan - Blog Post
 
 ### December 12th
-* Mario - Present
+* Andrés - Present
 * Raquel - Blog Post
 
 ### December 19th
-* Andrés - Present
-* Fabián - Present
-* Mario - Blog Post
+* Meagan - Present
+* Fabián - Blog Post
 
 ### December 26th (No meeting)
-* Raquel - Blog Post
+* None
 
 ### January 2nd
 * Andrés - Blog Post
-* Fabián - Blog Post
-* Mario - Blog Post
-
