@@ -47,7 +47,7 @@
 
 ### November 7th
 * Fabián - Present
-* Andrés - Blog Post
+* Meagan - Blog Post
 
 ### November 14th
 * Andrés - Present
