@@ -62,16 +62,14 @@
 * Andrés - Blog Post
 
 ### December 5th
-* Fabián - Present
-* Meagan - Blog Post
+* Fabián - Blog Post
 
 ### December 12th
 * Andrés - Present
 * Raquel - Blog Post
 
 ### December 19th
-* Meagan - Present
-* Fabián - Blog Post
+* Fabián - Present
 
 ### December 26th (No meeting)
 * None
