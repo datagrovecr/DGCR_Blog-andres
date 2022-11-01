@@ -74,5 +74,5 @@
 ### December 26th (No meeting)
 * None
 
-### January 2nd
+### January 3rd
 * Andrés - Blog Post
