@@ -30,26 +30,6 @@
 * Create your blog post in a .md file in the repo by your assigned date
 
 ## Posting Schedule
-### October 10th
-* Mario - Present
-* Fabián - Blog Post
-
-### October 17th 
-* Raquel - Blog Post
-
-### October 24th
-* Andrés - Present
-* Fabián - Present
-* Mario - Blog Post
-
-### October 31st
-* Raquel - Present
-
-### November 7th
-* Fabián - Present
-
-### November 14th
-* Raquel - Blog Post
 
 ### November 21st
 * Andrés - Present
