@@ -1,9 +1,15 @@
 # Datagrove Costa Rica Blog
 
 ## Purpose
-* Share what you're learning
+
+* Focus on your feature and what changes have happened since your last blog post. If you are on a new project then you should introduce your project and/or summarize its purpose and what has changed since the last blog post on the project.
+* Share resources that helped you but not copy/paste of existing information
+
+## Goals
 * Update the team on your projects and progress
 * Practice professional software development English
+
+## Audience
 * For now, the audience is the DG/DGCR team
 * Eventually, we hope to create enough content to make the blog a resource to the world beyond DGCR!
 
